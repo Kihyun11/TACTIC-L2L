@@ -129,7 +129,7 @@ MATCHUPS = [
 TOKENS_R0, TOKENS_R1, TOKENS_R2 = 700, 450, 512  # Max new tokens per round
 
 JUDGE_ENABLED  = True
-JUDGE_MODEL    = "gpt-4o-mini"   # OpenAI model used as judge
+JUDGE_MODEL    = "gpt-5-mini"   # OpenAI model used as judge
 ```
 
 ### Outputs
